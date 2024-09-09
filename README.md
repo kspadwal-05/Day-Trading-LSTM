@@ -10,4 +10,5 @@ of predicting future stock prices.
 - Scikit-Learn
 - Pandas
 - Numpy
+- Matplotlib
 
